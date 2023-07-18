@@ -4,15 +4,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['50488140869', 'JESHUA', true],
 ]
-global.suittag =['5212411719888']
-global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
-global.APIs = { 
 
   amel: 'https://melcanz.com',
   bx: 'https://bx-hunter.herokuapp.com',
