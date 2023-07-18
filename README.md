@@ -1,4 +1,4 @@
-# `🌀RUSO-𝐁𝐎𝐓⛄`
+# `🌀𝐑𝐔𝐒𝐎-𝐁𝐎𝐓⛄`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
 <a href="http://wa.me/50488140869" target="blank"><img src="https://img.shields.io/badge/RUSO-BOT_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
